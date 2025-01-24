@@ -1,0 +1,1 @@
+This is a proof of concept project which demonstrates how large language models, specifically ChatGPT-4o-mini, can be utilized to orchastrate complex robotic behavior using simple behavioral fuunctions.
